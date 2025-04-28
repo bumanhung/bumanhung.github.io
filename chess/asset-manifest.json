@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chess/static/css/main.faac5b76.css",
+    "main.js": "/chess/static/js/main.a187c515.js",
+    "static/js/453.7dd67da7.chunk.js": "/chess/static/js/453.7dd67da7.chunk.js",
+    "static/media/decorative-waves.svg": "/chess/static/media/decorative-waves.4f8ad3cab680bb695f96.svg",
+    "index.html": "/chess/index.html",
+    "main.faac5b76.css.map": "/chess/static/css/main.faac5b76.css.map",
+    "main.a187c515.js.map": "/chess/static/js/main.a187c515.js.map",
+    "453.7dd67da7.chunk.js.map": "/chess/static/js/453.7dd67da7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faac5b76.css",
+    "static/js/main.a187c515.js"
+  ]
+}
